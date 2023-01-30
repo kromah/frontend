@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kromah.github.io/frontend",
   "name": "logapea",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@truffle/hdwallet-provider": "^1.0.41-1",
     "graphql": "^16.6.0",
-    "logapea": "github:kromah/frontend",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
