@@ -9,15 +9,15 @@
     "@testing-library/user-event": "^13.5.0",
     "@truffle/hdwallet-provider": "^1.0.41-1",
     "graphql": "^16.6.0",
+    "logapea": "git+ssh://git@github.com/kromah/frontend.git",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.1",
     "react-scripts": "4.0.2",
     "sass": "^1.45.2",
-    "swiper": "^7.4.1",
-    "web-vitals": "^2.1.2",
-    "logapea": "git+ssh://git@github.com/kromah/frontend.git"
+    "swiper": "^6.8.4",
+    "web-vitals": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
