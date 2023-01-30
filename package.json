@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@truffle/hdwallet-provider": "^1.0.41-1",
     "graphql": "^16.6.0",
-    "logapea": "git+ssh://git@github.com/kromah/frontend.git",
+    "logapea": "github:kromah/frontend",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
