@@ -1,9 +1,5 @@
-import { Swiper } from 'swiper/react';
-import { Pagination } from 'swiper';
+import Swiper, { Pagination } from 'swiper';
 import './Carousel.scss';
-
-import 'swiper/swiper.scss';
-import 'swiper/scss/pagination';
 
 const Carousel = ({ children, slides }) => {
   return (
