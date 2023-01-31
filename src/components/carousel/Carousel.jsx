@@ -3,7 +3,7 @@ import { Pagination } from 'swiper';
 import './Carousel.scss';
 
 import 'swiper/swiper.scss';
-import 'swiper/scss/pagination';
+import 'swiper/scss/pagination.scss';
 
 const Carousel = ({ children, slides }) => {
   return (
