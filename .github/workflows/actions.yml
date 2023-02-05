@@ -28,4 +28,4 @@ jobs:
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
           port: ${{ secrets.ftp_port }}
-          server-dir: /home/logapeac1/build/
+          server-dir: /public_html/logapea.com
